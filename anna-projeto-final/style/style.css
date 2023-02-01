@@ -1,0 +1,106 @@
+ @import url('https://fonts.googleapis.com/css2?family=Maitree:wght@300&display=swap');
+
+
+body{
+    background-image: url("/cacausbakery-main/anna-projeto-final/images/page1-new.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto;
+}
+
+li {
+    display: inline;
+  }
+
+  li a {
+      float: left;
+      display: block;
+      padding: 30px;
+      color: #813919;
+      text-decoration: none;
+      font-size: 180%;
+      font-family: 'Maitree', serif;
+      font-weight: bolder;      
+  }
+
+  .navbar{
+    margin-left: 270px;
+    
+  }
+  .cart-button{
+    border-color: transparent;
+    background-color: transparent;
+    margin-top: 40px;
+    margin-left: 70px;
+    
+  }
+
+
+  .five-cupcakes{
+    float: left;
+    margin-top: -240px;
+    margin-left: -350px;
+
+  }
+
+  .pink-cupcake{
+    transform: rotate(-20deg);
+    margin-top: -90px;
+    margin-bottom: -50px;
+    margin-left: -40px;
+
+  }
+
+  .rainbow-cupcake{
+    float: left;
+    margin-top: -90px;
+    margin-left: -290px;
+  }
+
+  .primeira-frase{
+    margin-top: -170px;
+  }
+
+  .center-text{
+    text-align: center;
+    padding: 10px;
+    margin-right: 100px;
+    font-family: 'Maitree', serif;
+    font-size: 160%;
+    line-height: 10px;
+    color: #813919; 
+    
+  }
+
+  .logo{
+    float: right;
+    margin-top: -250px;
+  }
+
+ .logo-text{
+    display: block;
+    margin-top: 20px;
+    margin-left: 955px;
+    color: #813919;
+    font-family:'Maitree', serif; ;
+    font-size: 80%;
+  }
+  section{
+    margin-top: 67px;
+    min-height: 100vh;
+  
+  }
+  #home{
+    margin-top: -20px;
+  }
+  #menu{
+  background-image: url(/cacausbakery-main/anna-projeto-final/images/page2.png);
+  background-size: 99.7%;
+  
+  }
+
+  #contato{
+    
+  }
+
+  
